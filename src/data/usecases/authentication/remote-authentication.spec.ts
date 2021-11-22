@@ -1,5 +1,5 @@
-import { RemoteAuthentication } from '../service/remote-authentication';
-import { HttpPostClientSpy } from './remote-authentication-mock';
+import { HttpPostClientSpy } from '../../test/mock-http-client';
+import { RemoteAuthentication } from './remote-authentication';
 
 describe('RemoteAuthentication', () => {
   test('Should call HttpPostClient with correct URL', async () => {
