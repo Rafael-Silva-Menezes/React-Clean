@@ -19,6 +19,7 @@
   "homepage": "https://github.com/rafaelsilvamenezes1997/React-Clean#readme",
   "devDependencies": {
     "@types/node": "^16.11.9",
+    "eslint": "^8.3.0",
     "git-commit-msg-linter": "^3.2.8",
     "typescript": "^4.5.2"
   }
