@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rafaelsilvamenezes1997/React-Clean/issues"
   },
-  "homepage": "https://github.com/rafaelsilvamenezes1997/React-Clean#readme"
+  "homepage": "https://github.com/rafaelsilvamenezes1997/React-Clean#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.8"
+  }
 }
