@@ -28,6 +28,10 @@
     "react-hooks/exhaustive-deps": "warn",
     "@typescript-eslint/consistent-type-definitions": "off",
     "@typescript-eslint/strict-boolean-expressions": "off",
+    "import/prefer-default-export":"off",
+    "max-classes-per-file":"off",
+    "no-useless-constructor":"off",
+    "class-methods-use-this":"off",
     "prettier/prettier": "error",
     "react/jsx-filename-extension": [
       1,
